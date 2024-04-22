@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "install-node": "npm install",
-    "install-python": "pip install -r req.txt",
-    "build": "npm run install-node  && npm run install-python"
+    "build": "npm run install-node "
   },
   "author": "",
   "license": "ISC",
